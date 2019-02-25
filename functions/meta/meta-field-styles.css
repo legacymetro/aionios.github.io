@@ -1,0 +1,58 @@
+.guten-message {
+display:none;
+color:#888;
+}
+.block-editor-page .guten-message {display:block;}
+
+#solopine_meta{
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+ 
+#solopine_meta p{
+    clear: both;
+	border-bottom:1px solid #e5e5e5;
+	padding-bottom:1em;
+}
+ 
+.prfx-row-title{
+    display: block;
+    float: left;
+    width: 200px;
+	line-height:30px;
+}
+ 
+.prfx-row-content{
+    float: left;
+    padding-bottom: 1em;
+}
+ 
+.prfx-row-content label{
+    display: block;
+    line-height: 1.75em;
+}
+.solopine-description {
+	display:block;
+	font-size:11px;
+	color:#888;
+	margin-top:8px;
+}
+
+#meta-textarea, #meta-textarea-excerpt {
+    width: 300px !important;
+}
+
+#sp-blog-options { 
+	overflow:hidden;
+}
+#sp-blog-options h5 {
+	font-size:14px;
+	font-weight:600;
+	margin:0 0 10px;
+}
+#sp-blog-options p {
+    clear: both;
+}
+input#meta-text-blog-heading, input#meta-blog-category{
+    width: 300px;
+}
